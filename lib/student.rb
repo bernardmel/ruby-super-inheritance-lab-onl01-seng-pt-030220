@@ -1,6 +1,6 @@
 class Student
 
   def hello
-    puts "Hey there! I'm so excted to learn stuff."
+    puts 
   end
 end
